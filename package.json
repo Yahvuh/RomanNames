@@ -1,0 +1,19 @@
+{
+  "name": "romannames",
+  "version": "1.0.0",
+  "description": "A generator of Real Roman names",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yahvuh/RomanNames.git"
+  },
+  "author": "yahvuh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yahvuh/RomanNames/issues"
+  },
+  "homepage": "https://github.com/Yahvuh/RomanNames#readme"
+}

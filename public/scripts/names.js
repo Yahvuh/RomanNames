@@ -93,5 +93,3 @@ let names = {
 
 	agnomen: ['Augustus', 'Magnus', 'Africanus']*/
 }
-
-module.exports = names;

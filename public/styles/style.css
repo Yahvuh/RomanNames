@@ -1,0 +1,18 @@
+.wrapper {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+span {
+  padding-left: .25em;
+  padding-right: .25em;
+}
+.names {
+  font-family: 'Arial', sans-serif;
+  font-size: 5em;
+}
+.button {
+  padding-top: 1em;
+}

@@ -1,0 +1,16 @@
+doctype html
+html
+  head
+    link(rel='stylesheet', href='/styles/style.css')
+  body
+    div.wrapper
+      div.names
+        span#praenomen Gaius
+        span#nomen Julius
+        span#cognomen Caesar
+        //- span#agnomen
+      div.button
+        button(onclick="generate()") Generate
+      
+    script(type='text/javascript', src='/scripts/main.js').
+    script(type='text/javascript', src='/scripts/names.js').
